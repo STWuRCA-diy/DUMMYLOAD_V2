@@ -1,3 +1,14 @@
+IMPORTANT!
+
+Unfortunately, I did not have enough time to verify whether the shared version of the board contains any errors. This is a hobby project and I also had to focus on my day job.
+
+I hope someone from the community will be able to review the design, confirm that everything is correct, or fix any mistakes I may have left behind.
+
+The first version of the board did not include many of the components that are present in the shared version. However, all of them were tested using bodge wiring and then added to the shared design.
+
+Good luck!
+
+
 DUMMYLOAD_V2
 
 High-Voltage Electronic Dummy Load (Non-Commercial, Open-Source)
